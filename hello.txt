@@ -1,2 +1,9 @@
 Hello Git!
 Hello CodeCore!
+
+
+
+
+
+
+Greetings from Todd @ CodeCore
